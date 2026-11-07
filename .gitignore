@@ -6,3 +6,5 @@ playwright-report/
 server*.log
 data/
 .claude/
+demo/out/
+demo/audio/
